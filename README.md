@@ -6,11 +6,9 @@
 
 利用ソース
 
----
-
-bootstrap
-react
-rect-icons
+- bootstrap
+- react
+- rect-icons
 
 ## 階層構造
 

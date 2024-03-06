@@ -4,7 +4,7 @@ import { FaGithub } from 'react-icons/fa';
 import { EnvelopeAt } from 'react-bootstrap-icons';
 const hero = () => {
   return (
-    <section style={{ background: 'url(img/bghero.jpg) center/cover no-repeat ' }} id="top">
+    <section style={{ background: 'url(img/bghero.jpg) right/cover no-repeat ' }} id="top">
       <Container className="d-flex vh-100 justify-content-end">
         <div className=" col-md-11 h-100 ">
           <div className="d-flex h-50 align-items-end">
