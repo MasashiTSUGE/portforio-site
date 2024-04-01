@@ -1,0 +1,9 @@
+my-app/.gitignore
+my-app/package-lock.json
+my-app/package.json
+my-app/README.md
+my-app/public/favicon.ico
+my-app/public/index.html
+my-app/public/robots.txt
+my-app/src/common/img/dummy_icon.svg
+my-app/src/common/img/dummy.png

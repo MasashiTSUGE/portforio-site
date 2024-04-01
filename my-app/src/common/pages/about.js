@@ -7,7 +7,12 @@ const about = () => {
       <Container>
         <h2 className="py-4 mb-3 text-center display-4">自己紹介</h2>
         <div className="text-center">
-          <img src="img/dummy.png" alt="自分の画像を挿入" className="mb-3 rounded-circle border border-3 col-4 col-md-2 ms-auto me-auto" />
+          <img
+            src="img/myphoto.jpg"
+            alt="自分の画像を挿入"
+            className="mb-3 rounded-circle border border-3 col-4 col-md-2 ms-auto me-auto"
+            style={{ width: '200px', height: '200px' }}
+          />
         </div>
         <div className="justify-content-end">
           <p className=" col-md-4 ms-auto me-auto text-justify" style={{ textAlign: 'justify' }}>

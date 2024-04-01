@@ -58,6 +58,21 @@
       "comment": "就職活動をするにあたって制作した、ポートフォリオ用のwebサイト(当サイトです)。自分で1から制作要件を定義し、webサイトを作成しました。Reactを使ったwebサイトの習作でもあるため、細かくパーツをコンポーネント化し、メンテナンス性、拡張性を保てるように制作しました。",
       "link": "http://mercy2g.starfree.jp/resources/index.html",
       "source": "https://github.com/MasashiTSUGE/portforio-site"
+    },
+    {
+      "date": "2024031",
+      "title": "カレンダーアプリ",
+      "thumb": "img/calendarThumb.jpg",
+      "genre": "webアプリ",
+      "html": false,
+      "css": false,
+      "javascript": true,
+      "php": true,
+      "description": "phpとデータベースを利用したカレンダーアプリです",
+      "comment": "演習課題として制作したカレンダーのwebアプリです。各年月ごとにカレンダーを表示、データベースに登録された情報をもとに予定を表示、javascriptで入力されたフォーム要素を読み取りphpファイルにリクエスト送信、データベースに登録、編集、削除することができます。シングルページでphpを扱う方法を調べて実装しました。",
+      "rule": "カレンダーの表示、左右ボタンをクリックして月の変更、フィールドをクリックしてデータの登録及び編集",
+      "link": "http://mercy2g.starfree.jp/resources/calendar/index.php",
+      "source": "https://github.com/MasashiTSUGE/game-app-01"
     }
   ]
 }
