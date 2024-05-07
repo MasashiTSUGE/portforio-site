@@ -60,7 +60,7 @@
       "source": "https://github.com/MasashiTSUGE/portforio-site"
     },
     {
-      "date": "2024031",
+      "date": "20240315",
       "title": "カレンダーアプリ",
       "thumb": "img/calendarThumb.jpg",
       "genre": "webアプリ",
@@ -73,6 +73,21 @@
       "rule": "カレンダーの表示、左右ボタンをクリックして月の変更、フィールドをクリックしてデータの登録及び編集",
       "link": "http://mercy2g.starfree.jp/resources/calendar/index.php",
       "source": "https://github.com/MasashiTSUGE/game-app-01"
+    },
+    {
+      "date": "20240507",
+      "title": "Webサイト(架空の沖縄紹介)",
+      "thumb": "img/okinawaThumb.jpg",
+      "genre": "webサイト",
+      "html": true,
+      "css": true,
+      "javascript": true,
+      "php": true,
+      "description": "Vue及びNuxt.jsを利用して制作したwebサイトです",
+      "comment": "職業訓練校の演習課題として制作したwebサイトです、配布されたfigmaデザインカンプを基に制作しました。課題として渡されたカンプの中でも特にデザイン性が高く、cssでの再現に力を注ぎました。制作に使用するフレームワーク等の指定はありませんでしたが、自己の学習の為にVue及びNuxt.jsを利用し、SSRサイトとしてFirebaseにデプロイしました。",
+      "rule": "デザインカンプの再現、レスポンシブ対応、javascript機能(スライドショー等)",
+      "link": "https://okinawa-site.web.app/",
+      "source": "https://github.com/MasashiTSUGE/okinawa-site"
     }
   ]
 }
