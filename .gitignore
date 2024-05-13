@@ -1,6 +1,4 @@
 my-app/.gitignore
-my-app/package-lock.json
-my-app/package.json
 my-app/README.md
 my-app/public/favicon.ico
 my-app/public/index.html
